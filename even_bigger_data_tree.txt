@@ -1,0 +1,59 @@
+DATA TREE FOR EVEN_BIGGER_MN_DND_MODEL.H5
+-----
+Total barbarian training images: 373
+Total barbarian validation images: 238
+Total barbarian test images: 96
+-----
+Total bard training images: 374
+Total bard validation images: 238
+Total bard test images: 96
+-----
+Total cleric training images: 376
+Total cleric validation images: 240
+Total cleric test images: 96
+-----
+Total druid training images: 370
+Total druid validation images: 236
+Total druid test images: 96
+-----
+Total fighter training images: 432
+Total fighter validation images: 233
+Total fighter test images: 96
+-----
+Total mage training images: 421
+Total mage validation images: 236
+Total mage test images: 96
+-----
+Total monk training images: 429
+Total monk validation images: 235
+Total monk test images: 96
+-----
+Total paladin training images: 420
+Total paladin validation images: 237
+Total paladin test images: 96
+-----
+Total rogue training images: 425
+Total rogue validation images: 237
+Total rogue test images: 96
+-----
+Total sorcerer training images: 420
+Total sorcerer validation images: 236
+Total sorcerer test images: 95
+-----
+Total warlock training images: 422
+Total warlock validation images: 239
+Total warlock test images: 96
+-----
+Total wizard training images: 418
+Total wizard validation images: 238
+Total wizard test images: 95
+-----
+Total training pics: 4880
+Steps per epoch: 38
+-----
+Total valid pics: 2843
+Steps per epoch: 22
+-----
+Total test pics: 1150
+Steps per epoch: 8
+-----
